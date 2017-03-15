@@ -1,0 +1,59 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+examples-simple
+
+
+From: 'an unknown organization'
+  - commons-logging-api  commons-logging:commons-logging-api:jar:1.0.4
+
+  - JLine (http://jline.sourceforge.net) jline:jline:jar:0.9.94
+    License: BSD  (LICENSE.txt)
+  - Apache Thrift (http://thrift.apache.org) org.apache.thrift:libthrift:pom:0.6.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt")
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.16
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org/)
+  - core (http://jakarta.apache.org/commons/jci/commons-jci-core/) org.apache.commons:commons-jci-core:jar:1.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - fam (http://jakarta.apache.org/commons/jci/commons-jci-fam/) org.apache.commons:commons-jci-fam:jar:1.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - HttpClient (http://hc.apache.org/httpcomponents-client) org.apache.httpcomponents:httpclient:jar:4.0.1
+    License: Apache License  (../LICENSE.txt)
+  - HttpCore (http://hc.apache.org/httpcomponents-core/) org.apache.httpcomponents:httpcore:jar:4.0.1
+    License: Apache License  (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.4.3
+
+  - SLF4J LOG4J-12 Binding (http://www.slf4j.org) org.slf4j:slf4j-log4j12:jar:1.4.3
+
+
+From: 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Codec (http://jakarta.apache.org/commons/codec/) commons-codec:commons-codec:jar:1.3
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+  - Collections (http://jakarta.apache.org/commons/collections/) commons-collections:commons-collections:jar:3.2
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+  - Logging (http://jakarta.apache.org/commons/logging/) commons-logging:commons-logging:jar:1.0.4
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Commons IO (http://commons.apache.org/io/) commons-io:commons-io:jar:2.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Commons Lang (http://commons.apache.org/lang/) commons-lang:commons-lang:jar:2.4
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - accumulo-core (http://accumulo.apache.org/src/accumulo-core/) org.apache.accumulo:accumulo-core:jar:1.4.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - accumulo-start (http://accumulo.apache.org/src/accumulo-start/) org.apache.accumulo:accumulo-start:jar:1.4.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - cloudtrace (http://accumulo.apache.org/src/cloudtrace/) org.apache.accumulo:cloudtrace:jar:1.4.5
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
